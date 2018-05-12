@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9246
     wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31202#The-Strange-Cases-of-Dr.-Stanchon
 gutenberg_issued: '2010-02-06'
 gutenberg_type: Text
 identifiers:
