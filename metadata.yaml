@@ -1,0 +1,38 @@
+_repo: The-Strange-Cases-of-Dr.-Stanchon_31202
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bacon, Josephine Daskam
+    aliases:
+    - Lovell, Ingraham
+    - Bacon, Josephine Dodge Daskam
+    - Daskam, Josephine Dodge
+    - Bacon, Selden, Mrs.
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '9246'
+    url: http://www.gutenberg.org/2009/agents/9246
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
+description: ''
+gutenberg_issued: '2010-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31202'
+  lccn: '13008320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Psychotherapy patients -- Fiction'
+tableOfContents: The key -- The children -- The crystal -- The gospel -- The gypsy
+  -- The warning -- The legacy -- The miracle -- The unburied -- The oracles.
+title: The Strange Cases of Dr. Stanchon
+url: http://www.gutenberg.org/ebooks/31202
